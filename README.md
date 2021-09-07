@@ -40,11 +40,11 @@ https://www.loetje.nl/nl/locaties/zuidas/
 
 #### Screenshot(s) van de eerste pagina (small screen): 
 Locatiepagina Zuidas
-<img src="images/site1.jpg" width="375px" alt="overzicht van de locatie Zuidas">
+<img src="images/site1.png" width="375px" alt="overzicht van de locatie Zuidas">
 
 #### Screenshot(s) van de tweede pagina (small screen):
 hier de naam van de pagina  
-<img src="images/site2.jpg" width="375px" alt="omschrijving van de pagina">
+<img src="images/site2.png" width="375px" alt="omschrijving van de pagina">
  
 </details>
 

@@ -39,7 +39,7 @@ Surface plane
 https://www.loetje.nl/nl/locaties/zuidas/
 
 #### Screenshot(s) van de eerste pagina (small screen): 
-Locatiepagina Zuidas
+Locatiepagina van Loetje Zuidas
 <img src="images/site1.png" width="375px" alt="overzicht van de locatie Zuidas">
 
 #### Screenshot(s) van de tweede pagina (small screen):
